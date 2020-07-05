@@ -1,4 +1,4 @@
-# headstrt
+# BlogApp
 
 A new Flutter project.
 
